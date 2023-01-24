@@ -1,2 +1,2 @@
-# git-pracdemo
-GIT Learning
+# My Demo Git
+GIT Learning Rivach
